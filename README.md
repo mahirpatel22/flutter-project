@@ -32,7 +32,6 @@ This repository contains my journey of learning **Flutter** and **Dart**, coveri
 - Structuring a basic **Flutter app layout**.
 - Hands-on practice with **stateless widgets**.
 
----
+--
 
-## 📁 Project Structure
 
