@@ -1,37 +1,62 @@
-# 🚀 Flutter Basics Learning Project
+# 📱 Flutter Learning Journey 🚀
 
-This repository contains my journey of learning **Flutter** and **Dart**, covering the core fundamentals like widgets (`Text`, `Container`, `Row`, `Column`), layouts, and more. This project serves as a foundation for building beautiful, fast, and cross-platform mobile applications.
-
----
-
-## 📚 Topics Covered
-
-- ✅ Dart Basics
-  - Variables, Data Types
-  - Functions and Control Flow
-  - OOP in Dart (Classes, Objects, Inheritance)
-
-- ✅ Flutter Widgets
-  - `Text`, `Container`, `Image`
-  - `Row`, `Column`, `Center`
-  - `Padding`, `Margin`, `Alignment`
-  - `Scaffold`, `AppBar`, `MaterialApp`
-
-- ✅ Layout Building
-  - Nested widgets
-  - MainAxis & CrossAxis alignment
-  - Responsive layouts
+Welcome to my **Flutter Learning Repository**!  
+This project documents my complete journey of learning **Flutter** and **Dart** from scratch. I've covered all core Dart topics and completed essential Flutter basics like layout widgets, UI components, and scrolling.
 
 ---
 
-## 💡 What I Learned
+## 📘 Dart Topics Covered
 
-- Understanding the **widget tree** structure in Flutter.
-- Using **hot reload** to iterate quickly.
-- Building **UI using widgets** from scratch.
-- Structuring a basic **Flutter app layout**.
-- Hands-on practice with **stateless widgets**.
+I’ve practiced and implemented **all major Dart concepts**, including:
 
---
+- ✅ Variables & Data Types
+- ✅ Functions (Named, Anonymous, Arrow)
+- ✅ Lists, Sets, Maps
+- ✅ Null Safety
+- ✅ Classes & Objects
+- ✅ Inheritance & Polymorphism
+- ✅ Constructors & Named Constructors
+- ✅ Abstract Classes & Interfaces
+- ✅ Enums & Switch Cases
+- ✅ Mixins & Extensions
+- ✅ Futures & async/await
+- ✅ Streams
+- ✅ Exception Handling
+- ✅ Generics
+
+> 🧠 Dart is the foundation of Flutter. Mastering it helped me write clean, efficient code in Flutter.
+
+---
+
+## 🎯 Flutter Basics Completed
+
+I’ve built hands-on projects and examples using the following **core Flutter widgets and concepts**:
+
+- 🧱 **Layout Widgets**
+  - `Row`
+  - `Column`
+  - `Container`
+  - `Padding`, `SizedBox`, `Align`
+- 📝 **Text & Styling**
+  - `Text`
+  - `TextStyle`
+- 🔘 **Buttons**
+  - `ElevatedButton`
+  - `TextButton`
+  - `IconButton`
+- 📜 **Lists & Scrolling**
+  - `ListView`
+  - `ListView.builder`
+  - `SingleChildScrollView`
+- 🖼️ **Media**
+  - `Image.asset`, `Image.network`
+- 🧭 **Navigation**
+  - `Navigator.push`, `Navigator.pop`
+- 🧩 **Custom Widgets**
+  - Reusable widget components
+
+---
+
+
 
 
